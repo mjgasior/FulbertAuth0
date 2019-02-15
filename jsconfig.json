@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@benger/*": ["./src/services/*"]
+      }
+    }
+  }

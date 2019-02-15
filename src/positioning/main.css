@@ -1,0 +1,42 @@
+body {
+  background-color: #f1f1f1;
+  color: #bfbfbf;
+  height: 2000px;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+em {
+  color: #e07a05;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.blueBox {
+  background: #627da0;
+  position: absolute;
+  bottom: 35px;
+}
+
+.greenBox {
+  background: #5b8054;
+}
+
+.purpleBox {
+  background: purple;
+  position: absolute;
+  top: 20px;
+}
+
+.container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: #e07a05;
+}
